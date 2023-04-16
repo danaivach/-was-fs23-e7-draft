@@ -20,10 +20,10 @@ This repository contains a partial implementation of an Ant System algorithm [1]
 ├── ant.py # an artificial ant of the ant colony
 ├── environment.py # the environment of the ant colony
 └── att48-specs # specification of the att48 TSP
-    ├── att48.opt.png
-    ├── att48.opt.tour
-    ├── att48.tsp
-    ├── att48_coordinates.txt
+    ├── att48.tsp # the specification of the TSP instance
+    ├── att48.opt.tour # the optimal solution to the TSP instance
+    ├── att48.opt.png 
+    ├── att48_coordinates.txt 
     └── att48_distance_matrix.txt
 ```
 
