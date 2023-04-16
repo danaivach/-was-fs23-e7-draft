@@ -22,34 +22,3 @@ class Ant():
     # Position an ant in an environment
     def join(self, environment):
         self.environment = environment
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        3
